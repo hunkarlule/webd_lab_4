@@ -1,5 +1,5 @@
 /*
-Web Development: Lab-3 - JavaScript Lab-1
+Web Development: Lab_4 - JavaScript Lab_2
 Hunkar Lule
 */
 
